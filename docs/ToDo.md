@@ -1,6 +1,7 @@
 # ToDo List
 
 ## Refactoring project structure
+- [ ] features using local files don't yet work on this branch
 - [ ] Look into potential ways to restructure the project to make it closer to industry standard, or at least more clear
 - [ ] Change all functions that don't take args to be passed 'None"
 
